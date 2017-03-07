@@ -754,6 +754,7 @@
             <exclude>.travis.yml</exclude>
             <!-- Netbeans files -->
             <exclude>nb-configuration.xml</exclude>
+            <exclude>Jenkinsfile</exclude>
           </excludes>
         </configuration>
         <executions>
